@@ -14,6 +14,9 @@
                     <h1>Estudiantes UNEFA</h1>
                     <group>
                         <field name="name" />
+                        <field name="partner_id" />
+                        <field name="semestre_id" />
+                        <field name="materias" />
                       
                     </group>
                         
